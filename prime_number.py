@@ -1,3 +1,5 @@
+# Написать функцию, которая проверяет является ли число натуральным
+
 def checking_prime_number(num):
 
     if num != 0 and num % 1 == 0 and num % num == 0:
